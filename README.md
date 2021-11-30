@@ -6,12 +6,6 @@ Prerequisites
 
 `pip install pytest`
 
-Update Config/config.py with the correct paths for
-
-`CHROME_EXECUTABLE_PATH`
-
-`FIREFOX_EXECUTABLE_PATH`
-
 Html Report
 
 `pip install pytest-html`
